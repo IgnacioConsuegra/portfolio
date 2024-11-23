@@ -1,0 +1,30 @@
+.typeWriter{
+  border: none;
+  border-radius: 5000px;
+}
+.html-glow{
+  background-color: rgba(240, 101, 41, 1);
+  box-shadow: 0 0 30px 30px rgba(240, 101, 41, 1),
+              0 0 30px 30px rgba(240, 101, 41, 1);
+}
+
+.css-glow{
+  background-color: rgba(38, 77, 228, 1);
+
+  box-shadow: 0 0 30px 30px rgba(38, 77, 228, 1),
+  0 0 30px 30px rgba(38, 77, 228, 1);
+}
+
+.js-glow{
+  background-color: rgba(239, 216, 29, 1);
+
+  box-shadow: 0 0 30px 30px rgba(239, 216, 29, 1),
+  0 0 30px 30px rgba(239, 216, 29, 1);
+}
+
+.react-glow{
+  background-color: rgba(97, 219, 251, 1);
+
+  box-shadow: 0 0 30px 30px rgba(97, 219, 251, 1),
+  0 0 30px 30px rgba(97, 219, 251, 1);
+}

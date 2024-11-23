@@ -1,0 +1,29 @@
+section.init{
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+section.init div.init__Front{
+  position: relative;
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  justify-items: center;
+  background-color: black;
+  color: white;
+  z-index: 1;
+}
+section.init .init__Front h1{
+  font-weight: 500;
+}
+
+section.init div.init__Back{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
